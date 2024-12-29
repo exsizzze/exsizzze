@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
 </head>
 <body>
 
-<div style="display: flex; align-items: flex-start;">
+<div style="text-align: center;">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="120" height="120" />
 </div>
 
@@ -88,10 +88,6 @@
 <p align="center">
     <img alt="INSAN1TY" src="https://img.shields.io/badge/INSAN1TY-ff3600?style=for-the-badge&logo=githubsponsors&logoColor=white" />
 </p>
-
-<div class="github-icon">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="120" height="120" />
-</div>
 
 </body>
 </html>
