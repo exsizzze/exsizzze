@@ -5,6 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Welcome to My GitHub Page</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center; /* Центрируем текст по всему документу */
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9; /* Фоновый цвет страницы */
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 20px; /* Увеличенные отступы для значков */
+            border-radius: 20px; /* Закругленные углы */
+            font-size: 20px; /* Увеличенный размер шрифта */
+            margin: 10px; /* Отступ между значками */
+            background-color: #fff; /* Фоновый цвет для видимости */
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Легкая тень для значков */
+        }
+
+        .badge img {
+            width: 50px; /* Увеличенный размер изображений внутри значков */
+            height: auto; /* Сохранение пропорций */
+        }
+    </style>
 </head>
 <body>
 
