@@ -3,14 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        /* Стили для значка GitHub, если он понадобится в будущем */
-        .github-icon {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-        }
-    </style>
+
 </head>
 <body>
 
