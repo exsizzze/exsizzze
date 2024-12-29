@@ -3,8 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .github-icon {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+        }
+    </style>
 </head>
 <body>
+
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="120" height="120" />
+</div>
 
 <h1 align="center">
     Hello, my friend
@@ -55,12 +66,10 @@
     </span>
 </p>
 
-
 <h2 align="center">My GitHub Stats:</h2>
 <p align="center">
   <img alt="Guthub Stats" src="https://github-readme-stats.vercel.app/api?username=insan111ty&theme=apprentice&show_icons=true" align="center"></img>
 </p>
-
 
 <h2 align="center">In the Upcoming Future, I Aim to Develop Projects Like:</h2>
 <ul>
@@ -85,3 +94,10 @@
 <p align="center">
     <img alt="INSAN1TY" src="https://img.shields.io/badge/INSAN1TY-ff3600?style=for-the-badge&logo=githubsponsors&logoColor=white" />
 </p>
+
+<div class="github-icon">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="120" height="120" />
+</div>
+
+</body>
+</html>
