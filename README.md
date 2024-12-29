@@ -40,7 +40,7 @@
     </span>
 </p> 
 
-<h2 align="center">Wanna Know:</h2> 
+<h2 align="center">I want to study:</h2> 
 <p align="center"> 
     <span class="badge">
         <img alt="Django" src="https://img.shields.io/badge/Django-ff0000?style=for-the-badge&logo=django&logoColor=white" /> 
