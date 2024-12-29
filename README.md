@@ -85,7 +85,8 @@
 
 <h2 align="center">THANK YOU</h2>
 <p align="center">
-    <img alt="INSAN1TY" src="https://img.shields.io/badge/INSAN1TY-ff3600?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+    <a href="https://github.com/insan111ty" target="_blank">
+        <img alt="INSAN1TY" src="https://img.shields.io/badge/INSAN1TY-ff3600?style=for-the-badge&logo=githubsponsors&logoColor=white" />
 </p>
 
 </body>
