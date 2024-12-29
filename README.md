@@ -20,7 +20,7 @@
 <img alt="Pixel Art" src="https://github.com/exsizzze/profile/blob/main/ProfileGif.gif" align="center"/>
 
 <p align="center">
-    I'm currently learning Python and working on a few projects, including a multitool ("ZOS") and an application for downloading videos from various platforms. Additionally, I'm beginning to explore HTML and CSS, which I find very interesting for creating and styling web page. 
+    I'm currently learning Python and working on a few projects, including a multitool ("ZOS") and an application for downloading videos from various platforms. Additionally, I'm beginning to explore HTML and CSS, which I find very interesting for creating and styling web pages. 
 </p>
 
 <h2 align="center">My Tech Stack:</h2>
