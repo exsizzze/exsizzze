@@ -7,9 +7,9 @@
 </head>
 <body>
 
-<div style="text-align: center;">
+<p align="center"> 
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="120" height="120" />
-</div>
+</p>
 
 <h1 align="center">
     Hello, my friend
