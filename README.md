@@ -6,9 +6,8 @@
 
 </head>
 <body>
-
 <p align="center"> 
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="120" height="120" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="150" height="150" />
 </p>
 
 <h1 align="center">
