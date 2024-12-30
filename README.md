@@ -58,7 +58,7 @@
 
 <h2 align="center">My GitHub Stats:</h2>
 <p align="center">
-  <img alt="Guthub Stats" src="https://github-readme-stats.vercel.app/api?username=insan111ty&theme=apprentice&show_icons=true" align="center"></img>
+  <img alt="Guthub Stats" src="https://github-readme-stats.vercel.app/api?username=exsizzze&theme=apprentice&show_icons=true" align="center"></img>
 </p>
 
 
