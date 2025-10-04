@@ -12,7 +12,7 @@
 
 <p align="center">
     Welcome to my GitHub page!<br />
-    I’m Ilya, 15 years old, and just starting out as a developer from 
+    I’m Ilya, 16 years old, and just starting out as a developer from 
     <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13" alt="Russia Flag Icon" />
     <strong> Saratov, Russia.</strong>
 </p>
